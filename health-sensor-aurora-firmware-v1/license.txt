@@ -1,0 +1,4 @@
+Copyright 2015 Totem, unless otherwise indicated
+
+Distributed under GNU General Public License, unless otherwise indicated
+See gpl-3.0.txt
